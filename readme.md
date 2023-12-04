@@ -17,9 +17,7 @@
 - [Criando e exceutando um ansible-playbook (Passo 2)](#step2)
 - [Referências](#documentation)
 
-## 🖥️ Instalando tudo que é necessário (Passo 1)<a name = "step1"></a>
-
-## ⚙️ Iniciando o cluster do minikube (Passo 2)<a name = "step2"></a>
+## ⚙️ Iniciando o cluster do minikube (Passo 1)<a name = "step2"></a>
 
 - Após instalar e configurar os requisitos necessários, vamos criar o cluster do minikube:
 
@@ -29,7 +27,7 @@
 
     - Precisaremos de bastante memória para evitar engasgos durante as cargas de trabalho.
 
-## ⚙️🔽 Instalando Kibana e o Elasticsearch (Passo 3)<a name = "step3"></a>
+## ⚙️🔽 Instalando Kibana e o Elasticsearch (Passo 2)<a name = "step3"></a>
 
 - Começando instalando "custom resource definitions":
 
