@@ -135,12 +135,6 @@
     kubectl get secret quickstart-es-elastic-user -o=jsonpath='{.data.elastic}' | base64 --decode; echo
     ```
 
-## ⚙️ Deletando Cluster EKS (Passo 4)<a name = "step4"></a>
-
-    ```
-    eksctl delete cluster --name compass-desafio
-    ```
-
 ## Referências utilizadas:<a name="documentation"></a>
 
 - [K8S Deploy ECK](https://www.elastic.co/guide/en/cloud-on-k8s/master/k8s-deploy-eck.html#k8s-deploy-eck)
